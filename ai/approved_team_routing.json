@@ -1,0 +1,14 @@
+
+{
+  "_demo_only": true,
+  "_note": "Provisional team suggestions based on publicly listed ComForce divisions. Not verified or approved by ComForce. Coordinator review is required.",
+
+  "shelter": "Disaster Relief Division",
+  "missing_person_support": "Missing Persons Network",
+  "food_assistance": "Disaster Relief Division",
+  "violence_prevention_interruption": "Rapid / Incident Response Team",
+  "transportation": "Disaster Relief Division",
+  "incident_de_escalation": "Rapid / Incident Response Team",
+  "burial_assistance": "P.I. Division",
+  "employment_support": "Investigations / Research Team"
+}

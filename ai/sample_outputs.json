@@ -1,0 +1,24 @@
+
+[
+  {
+    "report_id": "RPT-001",
+    "original_submission": "My family needs a place to stay tonight because we lost our housing.",
+    "structured_report": {
+      "summary": "A family is requesting emergency shelter assistance due to losing their housing.",
+      "suggested_category": "shelter",
+      "suggested_team": "Disaster Relief Division",
+      "needs_review": true
+    }
+  },
+  {
+    "report_id": "RPT-003",
+    "original_submission": "We need help urgently. Can someone contact us?",
+    "structured_report": {
+      "summary": "A request for urgent assistance and contact.",
+      "suggested_category": null,
+      "suggested_team": null,
+      "needs_review": true
+    }
+  }
+]
+

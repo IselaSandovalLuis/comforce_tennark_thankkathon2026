@@ -1,0 +1,105 @@
+
+[
+  {
+    "report_id": "RPT-001",
+    "original_submission": "My family needs a place to stay tonight because we lost our housing.",
+    "expected_structured_report": {
+      "summary": "A family needs emergency shelter after losing their housing.",
+      "suggested_category": "shelter",
+      "suggested_team": null,
+      "needs_review": true
+    }
+  },
+  {
+    "report_id": "RPT-002",
+    "original_submission": "My mother needs transportation to medical appointments, and we also need help getting food.",
+    "expected_structured_report": {
+      "summary": "A family is requesting transportation to medical appointments and food assistance.",
+      "suggested_category": null,
+      "suggested_team": null,
+      "needs_review": true
+    }
+  },
+  {
+    "report_id": "RPT-003",
+    "original_submission": "We need help urgently. Can someone contact us?",
+    "expected_structured_report": {
+      "summary": "A person is requesting urgent assistance but has not specified what kind of help is needed.",
+      "suggested_category": null,
+      "suggested_team": null,
+      "needs_review": true
+    }
+  },
+
+{
+  "report_id": "RPT-004",
+  "original_submission": "My brother has been missing since yesterday. We need help locating him.",
+  "expected_structured_report": {
+    "summary": "A person is requesting assistance locating their missing brother.",
+    "suggested_category": "missing_person_support",
+    "suggested_team": null,
+    "needs_review": true
+  }
+},
+{
+  "report_id": "RPT-005",
+  "original_submission": "I need help getting groceries and meals for my children this week.",
+  "expected_structured_report": {
+    "summary": "A parent is requesting food assistance for their children.",
+    "suggested_category": "food_assistance",
+    "suggested_team": null,
+    "needs_review": true
+  }
+},
+{
+  "report_id": "RPT-006",
+  "original_submission": "There is growing tension between two neighborhood groups. We are asking for violence prevention outreach before anyone gets hurt.",
+  "expected_structured_report": {
+    "summary": "A community member is requesting violence prevention outreach due to growing tensions between neighborhood groups.",
+    "suggested_category": "violence_prevention_interruption",
+    "suggested_team": null,
+    "needs_review": true
+  }
+},
+{
+  "report_id": "RPT-007",
+  "original_submission": "I need transportation to my medical appointment tomorrow because I do not have a car.",
+  "expected_structured_report": {
+    "summary": "An individual needs transportation to a medical appointment.",
+    "suggested_category": "transportation",
+    "suggested_team": null,
+    "needs_review": true
+  }
+},
+{
+  "report_id": "RPT-008",
+  "original_submission": "Two neighbors are currently having a heated argument. We need someone trained in conflict de-escalation to help resolve the situation peacefully.",
+  "expected_structured_report": {
+    "summary": "A community member is requesting conflict de-escalation assistance for a dispute between neighbors.",
+    "suggested_category": "incident_de_escalation",
+    "suggested_team": null,
+    "needs_review": true
+  }
+},
+{
+  "report_id": "RPT-009",
+  "original_submission": "My father passed away recently, and our family cannot afford funeral and burial expenses. We need burial assistance.",
+  "expected_structured_report": {
+    "summary": "A family is requesting financial assistance with funeral and burial expenses following the death of a family member.",
+    "suggested_category": "burial_assistance",
+    "suggested_team": null,
+    "needs_review": true
+  }
+},
+{
+  "report_id": "RPT-010",
+  "original_submission": "I have been unemployed for three months and need help finding a job and preparing for interviews.",
+  "expected_structured_report": {
+    "summary": "An unemployed individual is requesting employment assistance and interview preparation.",
+    "suggested_category": "employment_support",
+    "suggested_team": null,
+    "needs_review": true
+  }
+}
+
+]
